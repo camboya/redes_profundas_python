@@ -17,6 +17,6 @@ anexo
 
 
 # Consultas
-alumnos@inove.com.ar
+alumnos@inove.com.arr
 
 
